@@ -109,7 +109,7 @@ data={{
 ### `cache?: boolean`
 Save your current language code to AsyncStorage
 ```js
-en, vi....based on your define
+language code: en, vi....based on your define
 ```  
 ---
 ## Supported React Native Versions
