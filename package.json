@@ -13,8 +13,8 @@
     },
     "author":
       "vokhuyetOz",
-    "license": "RABILOO",
-    "keywords": ["react-native", "ios", "android", "language"],
+    "license": "MIT, RABILOO",
+    "keywords": ["react-native", "ios", "android", "language","context"],
     "dependencies": {},
     "publishConfig": {
       "registry": "https://registry.npmjs.org/"
