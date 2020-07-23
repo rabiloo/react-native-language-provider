@@ -12,10 +12,13 @@
       "url": "https://github.com/rabiloo/react-native-language-provider.git"
     },
     "author":
-      "VokhuyetOz",
+      "vokhuyetOz",
     "license": "RABILOO",
     "keywords": ["react-native", "ios", "android", "language"],
     "dependencies": {},
+    "publishConfig": {
+      "registry": "https://registry.npmjs.org/"
+    },
     "peerDependencies": {
       "react": "^16.8.6",
       "react-native": ">=0.60.0",
