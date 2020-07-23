@@ -1,5 +1,5 @@
 {
-    "name": "react-native-language-provider",
+    "name": "@rabiloo/react-native-language-provider",
     "version": "0.0.1",
     "description":
       "Wrapper of context for Language",
@@ -9,7 +9,7 @@
     },
     "repository": {
       "type": "git",
-      "url": "https://git.rabiloo.net/mobile/react-native-language-provider.git"
+      "url": "https://github.com/rabiloo/react-native-language-provider.git"
     },
     "author":
       "VokhuyetOz",
@@ -19,7 +19,7 @@
     "peerDependencies": {
       "react": "^16.8.6",
       "react-native": ">=0.60.0",
-      "@react-native-community/async-storage": "^1.11.0",
-      "react-native-localize": "^1.4.0"
+      "@react-native-community/async-storage": ">=1.11.0",
+      "react-native-localize": ">=1.4.0"
     }
   }
