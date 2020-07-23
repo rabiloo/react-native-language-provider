@@ -10,7 +10,7 @@ Wrapper of Context for Language.
 
 <p align="center" >
   <kbd>
-    <img src="docs/assets/language_demo.gif" style="height:500px" title="Language Demo" float="center">
+    <img src="docs/assets/language_demo.gif" style="height:300px" title="Language Demo" float="center">
   </kbd>
   <br>
   <em>Language-Provider example app.</em>
