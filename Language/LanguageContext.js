@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import * as RNLocalize from 'react-native-localize';
+import PropTypes from "prop-types"
 
 import {LanguageService} from './LanguageService';
 import {LanguageLocal} from './LanguageLocal';
@@ -59,5 +60,12 @@ function LanguageContainer({children, data, initialLanguageCode, cache}) {
     </LanguageContext.Provider>
   );
 }
+
+LanguageContainer.propTypes = {
+  children: PropTypes.any,
+  data: PropTypes.object,
+  initialLanguageCode: PropTypes.string,
+  cache: PropTypes.bool,
+};
 
 export {LanguageContext, LanguageContainer};
